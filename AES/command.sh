@@ -1,0 +1,1 @@
+bash script.sh | ssh -T student@172.27.26.188 2> /dev/null > output.txt
